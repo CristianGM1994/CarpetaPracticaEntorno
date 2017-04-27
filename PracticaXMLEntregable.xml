@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--instrumentos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xschema.xsd">-->
+
+<!DOCTYPE instrumentos [
+	<!ELEMENT instrumentos (clasitipos+,instrumento+)>
+	<!ELEMENT clasitipos (tipo+)>
+	<!ELEMENT tipo (nombretipo,definiciontipo,Formaomodo+)>
+	<!ATTLIST tipo idtipo ID #REQUIRED>
+	<!ELEMENT nombretipo (#PCDATA)>
+	<!ELEMENT definiciontipo (#PCDATA)>
+	<!ELEMENT Formaomodo (#PCDATA)>
+	<!ATTLIST Formaomodo idmodo ID #REQUIRED>
+	<!ELEMENT instrumento (nombreinstru+,imageninstru+,historia+,otroinstrumentosrel+,interpretes+)>
+	<!ATTLIST instrumento idmodo IDREF #REQUIRED>
+	<!ATTLIST instrumento idtipo IDREF #REQUIRED>
+	<!ELEMENT nombreinstru (#PCDATA)>
+	<!ELEMENT imageninstru (#PCDATA)>
+	<!ELEMENT historia (#PCDATA)>
+	<!ELEMENT otroinstrumentosrel (#PCDATA)>
+	<!ELEMENT interpretes (interprete+)>
+	<!ELEMENT interprete (nameinter+,surname+,paiscountry+,imageninterprete+)>
+	<!ELEMENT nameinter (#PCDATA)>
+	<!ELEMENT surname (#PCDATA)>
+	<!ELEMENT paiscountry (#PCDATA)>
+	<!ELEMENT imageninterprete (#PCDATA)>
+	]>	
+	
+	<instrumentos>
+	<clasitipos>	
+        <tipo idtipo="cordofo">
+			<nombretipo>Cordofono</nombretipo>
+			<definiciontipo>Sonido se produce al vibrar una CUERDA tensa</definiciontipo>
+			<Formaomodo idmodo="frota1">Frotada</Formaomodo>
+            <Formaomodo idmodo="pulsadaopelliz">Pulsada O Pellizcada</Formaomodo>
+            <Formaomodo idmodo="percupiano">Percutida Con Piano</Formaomodo>
+		</tipo>
+        
+        <tipo idtipo="membra">
+			<nombretipo>Membranofonos</nombretipo>
+			<definiciontipo>Sonido se produce al vibrar una MEMBRANA</definiciontipo>
+			<Formaomodo idmodo="percutir">Percutidos</Formaomodo>
+			<Formaomodo idmodo="frota2">Frotados</Formaomodo>
+            <Formaomodo idmodo="sopla2">Soplados</Formaomodo>
+		</tipo>
+	    
+        
+		<tipo idtipo="aerofo">
+			<nombretipo>Aerófonos</nombretipo>
+			<definiciontipo>Sonido se produce al vibrar una COLUMNA de aire</definiciontipo>
+			<Formaomodo idmodo="boquillaoemp">Boquilla o Empuñadura</Formaomodo>
+			<Formaomodo idmodo="bis">Bisel</Formaomodo>
+		    <Formaomodo idmodo="lenguetasimp">Lengueta Simple</Formaomodo>
+			<Formaomodo idmodo="lenguetadob">Lengueta Doble</Formaomodo>
+			<Formaomodo idmodo="lenguetalibr">Lengueta Libre</Formaomodo>
+			<Formaomodo idmodo="mix">Mixta</Formaomodo>
+		</tipo>
+        
+        <tipo idtipo="electricos">
+			<nombretipo>Electrofonos</nombretipo>
+			<definiciontipo>Sonido se produce por medios ELECTRICOS</definiciontipo>
+			<Formaomodo idmodo="tradicion">Instrumentos Tradicionales</Formaomodo>
+            <Formaomodo idmodo="NewConstruccion">Nueva Construccion</Formaomodo>
+		</tipo>
+	
+
+		<tipo idtipo="idiofo">
+			<nombretipo>Idiofonos</nombretipo>
+			<definiciontipo>Sonido se produce al vibrar el PROPIO CUERPO del instrumento</definiciontipo>
+			<Formaomodo idmodo="entrechoq">Entrechoque</Formaomodo>
+			<Formaomodo idmodo="golpeopercu">Golpeado o Percutido</Formaomodo>
+            <Formaomodo idmodo="sacu">Sacudidas</Formaomodo>
+            <Formaomodo idmodo="raspas">Raspados</Formaomodo>
+            <Formaomodo idmodo="punte">Punteados</Formaomodo>
+            <Formaomodo idmodo="frota">Frotados</Formaomodo>
+            <Formaomodo idmodo="sopla">Soplados</Formaomodo>
+        </tipo>
+    </clasitipos>
