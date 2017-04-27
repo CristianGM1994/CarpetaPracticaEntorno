@@ -513,4 +513,334 @@
 			</interprete>
 		</interpretes>
 	</instrumento>
+     
+     <!--21-->
+     <instrumento idmodo="lenguetalibr" idtipo="mix">
+		<nombreinstru>Gaita Gallega</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gaiteiros_em_romaria_galega.jpg/220px-Gaiteiros_em_romaria_galega.jpg</imageninstru>
+		<historia>La gaita gallega es un instrumento de viento madera propio de Galicia, el norte de Portugal, el oeste de Asturias, el Bierzo y Sanabria. Es el símbolo por excelencia de la música tradicional gallega.</historia>
+		<otroinstrumentosrel>Gaita</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Susana</nameinter>
+				<surname>Seivane</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>https://i.ytimg.com/vi/631-b07omIU/maxresdefault.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Susana</nameinter>
+				<surname>Seivane Úbeda</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://i.ytimg.com/vi/631-b07omIU/maxresdefault.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--22-->
+     <instrumento idmodo="NewConstruccion" idtipo="electricos">
+		<nombreinstru>Ondas Martenot</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/c/c6/Ondes_martenot.jpg</imageninstru>
+		<historia>Las ondas de Martenot es un instrumento electrónico inventado en 1928 por el compositor, ingeniero y cellista francés Maurice Martenot.</historia>
+		<otroinstrumentosrel>Gaita</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Jean</nameinter>
+				<surname>Laurendeau</surname>
+				<paiscountry>Canada</paiscountry>	
+                <imageninterprete>https://i.ytimg.com/vi/EvufqK-PtxU/hqdefault.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Cristina</nameinter>
+				<surname>Pato</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://img.rtve.es/v/2063817/</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+
+     <!--23-->
+     <instrumento idmodo="cordofo" idtipo="frota">
+		<nombreinstru>Violin</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.png</imageninstru>
+		<historia>El violín (etimología: del italiano violino, diminutivo de viola o viella) es un instrumento de cuerda frotada que tiene cuatro cuerdas.</historia>
+		<otroinstrumentosrel>violonchelo</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Eugene</nameinter>
+				<surname>Ysaye</surname>
+				<paiscountry>Bélgica</paiscountry>	
+                <imageninterprete>http://www.epdlp.com/fotos/ysaye.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Fritz</nameinter>
+				<surname>Kreisler</surname>
+				<paiscountry>Austria</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/kreisler.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--24-->
+     <instrumento idmodo="cordofo" idtipo="frota">
+		<nombreinstru>Viola</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/4/42/Violin-Viola.jpg</imageninstru>
+		<historia>La viola es un instrumento musical de cuerda, similar en cuanto a materiales y construcción al violín pero de mayor tamaño y sonido más grave</historia>
+		<otroinstrumentosrel>violonchelo</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>John</nameinter>
+				<surname>Cale</surname>
+				<paiscountry>UK</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/a/a2/John_Cale_1.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Yuri</nameinter>
+				<surname>Bashmet</surname>
+				<paiscountry>Rusia</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vladimir_Putin_12_June_2001-3.jpg/220px-Vladimir_Putin_12_June_2001-3.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--25-->
+     <instrumento idmodo="cordofo" idtipo="frota">
+		<nombreinstru>Violonchelo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/LeonBernardel-1923.jpeg/800px-LeonBernardel-1923.jpeg</imageninstru>
+		<historia>El violoncello o violonchelo (abreviado a menudo este último término bajo la forma chelo) es un instrumento musical de cuerda frotada, perteneciente a la familia del violín</historia>
+		<otroinstrumentosrel>Contrabajo</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Pau</nameinter>
+				<surname>Casals</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pablocasals.jpg/250px-Pablocasals.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Gaspar</nameinter>
+				<surname>Cassadó</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/cassado.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--26-->
+      <instrumento idmodo="cordofo" idtipo="pulsadaopelliz">
+		<nombreinstru>Guitarra</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/e/e8/Classical_Guitar_two_views.jpg</imageninstru>
+		<historia>La guitarra, también conocida como guitarra clásica o guitarra española,1 es un instrumento musical de cuerda pulsada, compuesto de una caja de madera, un mástil sobre el que va adosado el diapasón o trastero</historia>
+		<otroinstrumentosrel>ukelele</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Andrés</nameinter>
+				<surname>Segovia</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>http://www.epdlp.com/fotos/segovia.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Agustín</nameinter>
+				<surname>Castellón "Sabicas"</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/sabicas.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--27-->
+     <instrumento idmodo="cordofo" idtipo="pulsadaopelliz">
+		<nombreinstru>Banjo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adrienne_Young%27s_banjo.jpg/320px-Adrienne_Young%27s_banjo.jpg</imageninstru>
+		<historia>El banjo o banyo1 es un instrumento musical de 4, 5, 6 ó 10 cuerdas, constituido por un aro o anillo de madera circular de unos 35 cm de diámetro cubierto por un "parche" de plástico o piel a modo de tapa de guitarra</historia>
+		<otroinstrumentosrel>Laud</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Béla</nameinter>
+				<surname>Fleck</surname>
+				<paiscountry>Estados Unidos</paiscountry>	
+                <imageninterprete>http://mediad.publicbroadcasting.net/p/kios/files/201607/belafleck16.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Pete</nameinter>
+				<surname>Seeger</surname>
+				<paiscountry>Nueva York</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pete_Seeger_NYWTS.jpg/220px-Pete_Seeger_NYWTS.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--28-->
+     <instrumento idmodo="cordofo" idtipo="pulsadaopelliz">
+		<nombreinstru>Ukelele</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/7/7c/Ukulele1.png</imageninstru>
+		<historia>El ukelele (o ukulele) es un instrumento de cuerda1 utilizado como instrumento principal en la música de las islas Hawái, Tahití y la isla de Pascua que originalmente tenía cinco cuerdas</historia>
+		<otroinstrumentosrel>Laud</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Jake</nameinter>
+				<surname>Shimabukuro</surname>
+				<paiscountry>Estados Unidos</paiscountry>	
+                <imageninterprete>http://www.aomtheatre.com/wp-content/uploads/Jake-Shimabukuro-01.jpeg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Sufjan</nameinter>
+				<surname>Stevens</surname>
+				<paiscountry>Estados Unidos</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sufjan_Stevens_playing_banjo.jpg/1024px-Sufjan_Stevens_playing_banjo.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--29-->
+          <instrumento idmodo="cordofo" idtipo="pulsadaopelliz">
+		<nombreinstru>Arpa</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Harp.png/245px-Harp.png</imageninstru>
+		<historia>El arpa es un instrumento de cuerda pulsada formado por un marco resonante y una serie variable de cuerdas tensadas entre la sección inferior y la superior</historia>
+		<otroinstrumentosrel>Laud</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Lily</nameinter>
+				<surname>Laskine</surname>
+				<paiscountry>Francia</paiscountry>	
+                <imageninterprete>http://www.epdlp.com/fotos/laskine.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Nicanor</nameinter>
+				<surname>Zabaleta</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/zabaleta.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--30-->
+     <instrumento idmodo="cordofo" idtipo="percupiano">
+		<nombreinstru>Piano</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/8/8d/Steinway_%26_Sons_concert_grand_piano%2C_model_D-274%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png</imageninstru>
+		<historia>El piano (palabra que en italiano significa «suave», y en este caso es apócope del término original, «pianoforte», que hacía referencia a sus matices suave y fuerte) es un instrumento musical armónico clasificado como instrumento de teclado y de cuerdas</historia>
+		<otroinstrumentosrel>Clavecin</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>María</nameinter>
+				<surname>Teresa Carreño</surname>
+				<paiscountry>Venezuela</paiscountry>	
+                <imageninterprete>http://www.epdlp.com/fotos/carreno.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Ignacy</nameinter>
+				<surname>Jan Paderewski</surname>
+				<paiscountry>Polonia</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/paderewski.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--31-->
+      <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Triangulo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/c/c6/Triangle_instrument.png</imageninstru>
+		<historia>El triángulo es un instrumento percutido de metal, perteneciente al grupo de los idiofonos, porque el sonido resultante es fruto de la vibración del metal tras ser golpeado con la baqueta.</historia>
+		<otroinstrumentosrel>Platos</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>Lopez Puccio</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>http://fotos01.laprovincia.es/2015/03/06/646x260/lutherapia-espectaculo.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Gerardo</nameinter>
+				<surname>Masana</surname>
+				<paiscountry>Argentina</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/8/8a/Gerardo_Masana.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--32-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Platillos</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/b/b6/Zildjiancrash.jpg</imageninstru>
+		<historia>Los platillos, platos, címbalos o cimbales son instrumentos de percusión de sonido indeterminado, lo que significa que las notas no tienen una altura definida</historia>
+		<otroinstrumentosrel>Oenotherarosea</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>Núñez Cortés</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg/220px-Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Ernesto</nameinter>
+				<surname>Acher</surname>
+				<paiscountry>Argentina</paiscountry>
+                <imageninterprete>https://i.ytimg.com/vi/_8HkLgt_F1g/hqdefault.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--33-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Metalófono</nombreinstru>
+		<imageninstru>https://marmimen97.files.wordpress.com/2012/10/504.jpg</imageninstru>
+		<historia>El medalófono o metalofóno es un instrumento musical compuesto de una serie de láminas o tubos de metal, con cada elemento afinado a una nota musical. Los metalófonos están clasificados como idiófonos, lo que significa que son instrumentos que al ser golpeados (percutidos)</historia>
+		<otroinstrumentosrel>Vibráfono</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Teddy</nameinter>
+				<surname>Brown</surname>
+				<paiscountry>EEUU</paiscountry>	
+                <imageninterprete>https://i.ytimg.com/vi/b8uyEe3nKfo/0.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Teddy</nameinter>
+				<surname>Brown</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>https://i.ytimg.com/vi/b8uyEe3nKfo/0.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--34-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Xilófono</nombreinstru>
+		<imageninstru>https://marmimen97.files.wordpress.com/2012/10/504.jpg</imageninstru>
+		<historia>El xilófono (pronunciado /si'lofono/ aunque también coloquialmente /ʃi'lofono/, del griego ξύλον xylon madera y φωνή phōnē voz) es un instrumento musical de percusión</historia>
+		<otroinstrumentosrel>Marimba</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Josef</nameinter>
+				<surname>Gusikow</surname>
+				<paiscountry>EEUU</paiscountry>	
+                <imageninterprete>http://i.imgur.com/ryd9vew.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Herman</nameinter>
+				<surname>Winterhoff</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>http://1.bp.blogspot.com/_vDESJAx-lGQ/SQTvmliwsKI/AAAAAAAAAAs/yFbQd1yhqcA/s320/Lionel_Hampton_02%5B1%5D.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--35-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Zambomba</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/4/49/Zambomba-Pe%C3%B1aAmigosCa%C3%B1izo-Jerez-P1010344.JPG</imageninstru>
+		<historia>La zambomba es un membranófono de fricción. En España, la zambomba es un instrumento muy típico en las fiestas navideñas, acompañando con frecuencia al canto de villancicos y cánticos populares.</historia>
+		<otroinstrumentosrel>Marimba</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Miguel</nameinter>
+				<surname>Vargas</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=jpg/path/s67ff3077ed93a36c/image/i46b3f77f94fb5b89/version/1341237866/image.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Tomás</nameinter>
+				<surname>Moreno Romero</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tomasito_CadizXHaiti_UCA_DSC_0196.jpg/1024px-Tomasito_CadizXHaiti_UCA_DSC_0196.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
 </instrumentos>
