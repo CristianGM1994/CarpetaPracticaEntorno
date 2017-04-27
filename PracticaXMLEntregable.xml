@@ -273,4 +273,244 @@
 			</interprete>
 		</interpretes>
 	</instrumento>
+    
+     <!--10-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Glockenspiel</nombreinstru>
+		<imageninstru>http://www.melomanos.com/wp-content/uploads/glock.jpg</imageninstru>
+		<historia>Compuesto por una serie de láminas de acero afinadas suspendidas sobre un soporte de fieltro, lo que le permite vibrar</historia>
+		<otroinstrumentosrel>Xilofono</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Josef</nameinter>
+				<surname>Gusikow</surname>
+				<paiscountry>EEUU</paiscountry>
+				<imageninterprete>http://i.imgur.com/ryd9vew.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Herman</nameinter>
+				<surname>Winterhoff</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>http://1.bp.blogspot.com/_vDESJAx-lGQ/SQTvmliwsKI/AAAAAAAAAAs/yFbQd1yhqcA/s320/Lionel_Hampton_02%5B1%5D.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+    <!--11-->
+    <instrumento idmodo="bis" idtipo="aerofo">
+		<nombreinstru>Piccolo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Piccolo.jpg/200px-Piccolo.jpg</imageninstru>
+		<historia>El flautín (llamado comúnmente piccolo, del italiano flauto piccolo: ‘flauta pequeña’) es un instrumento de viento-madera originalmente en la tonalidad de Re bemol y posteriormente a finales del siglo XX</historia>
+		<otroinstrumentosrel>Zampoña</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Eddy</nameinter>
+				<surname>Mitchell</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eddy_Mitchell_avp_2014_2.jpg/220px-Eddy_Mitchell_avp_2014_2.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Georges</nameinter>
+				<surname>Brassens</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brassens_TNP_1966.jpg/255px-Brassens_TNP_1966.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--12-->
+    <instrumento idmodo="lenguetasimp" idtipo="aerofo">
+		<nombreinstru>Clarinete</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarinet.jpg/24px-Clarinet.jpg</imageninstru>
+		<historia>El clarinete es un instrumento musical de la familia de los instrumentos de viento-madera que consta de una boquilla con caña simple. Dentro de la orquesta, se encuentra en la sección del viento-madera, junto a la flauta, el oboe y el fagot</historia>
+		<otroinstrumentosrel>Zampoña</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Anton</nameinter>
+				<surname>Stadler</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>http://paulthomasonwriter.com/wp-content/uploads/2012/09/Mozart-mature.png</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Johann</nameinter>
+				<surname>Simon</surname>
+				<paiscountry>Austria</paiscountry>
+                <imageninterprete>http://upload.wikimedia.org/wikipedia/commons/3/3c/Hermstedt_SDH2.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--13-->
+    <instrumento idmodo="lenguetasimp" idtipo="aerofo">
+		<nombreinstru>Saxofon</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Saxophone_alto.jpg/96px-Saxophone_alto.jpg</imageninstru>
+		<historia>El saxofón fue creado a mitad de la década de 1840 por Adolphe Sax, e introducido en la música orquestal por Jules Massenet en sus óperas Manon y Werther</historia>
+		<otroinstrumentosrel>Sasofon Soprano</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Marcel</nameinter>
+				<surname>Mule</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>http://www.epdlp.com/fotos/mule.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Sigurd</nameinter>
+				<surname>Rascher</surname>
+				<paiscountry>Alemania</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/rascher.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--14-->
+    <instrumento idmodo="lenguetadob" idtipo="aerofo">
+		<nombreinstru>Oboe</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Oboe_modern.jpg/200px-Oboe_modern.jpg</imageninstru>
+		<historia>El origen del instrumento conocido en la actualidad por el nombre de oboe se remonta a 3000 a. C.</historia>
+		<otroinstrumentosrel>Fagot</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>François</nameinter>
+				<surname>Leleux</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>http://www.epdlp.com/fotos/leleux.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Hansjörg</nameinter>
+				<surname>Schellenberger</surname>
+				<paiscountry>Aleman</paiscountry>
+                <imageninterprete>http://www.hansjoerg-schellenberger.com/wp-content/uploads/2015/04/Schellenberger-HJ-3313-Foto-GerhardWinkler.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--15-->
+    <instrumento idmodo="NewConstruccion" idtipo="electricos">
+		<nombreinstru>Bajo Electrico</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/5/57/Fender_Jazz_Bass_American_Deluxe.JPG</imageninstru>
+		<historia>El bajo eléctrico, llamado sencillamente bajo,1 es un instrumento musical melódico de la familia de los cordófonos, similar en apariencia y construcción a la guitarra eléctrica</historia>
+		<otroinstrumentosrel>Contrabajo</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Jaco</nameinter>
+				<surname>Pastorius</surname>
+				<paiscountry>Florida, EEUU</paiscountry>
+				<imageninterprete>https://elbajistanumero1.files.wordpress.com/2013/07/jaco-pastorius-el-bajista-numero-1.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Jeff</nameinter>
+				<surname>Berlin</surname>
+				<paiscountry>Nueva York, Estados Unidos</paiscountry>
+                <imageninterprete>http://www.markbass.it/upload_area/artists/img1/Jeff_Berlin_Cort.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--16-->
+    <instrumento idmodo="lenguetadob" idtipo="aerofo">
+		<nombreinstru>Fagot</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FoxBassoon.jpg/87px-FoxBassoon.jpg</imageninstru>
+		<historia>El fagot es un instrumento de viento madera provisto de lengüeta doble. Está formado por un tubo ligeramente cónico doblado sobre sí mismo</historia>
+		<otroinstrumentosrel>Fagotino</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Antoine</nameinter>
+				<surname>Dard</surname>
+				<paiscountry>Chapaize, Borgoña</paiscountry>
+				<imageninterprete>https://i.ytimg.com/vi/yktX3k7Fc0s/maxresdefault.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Archie</nameinter>
+				<surname>Camden</surname>
+				<paiscountry>Gran Bretana</paiscountry>
+                <imageninterprete>http://images.npg.org.uk/800_800/6/8/mw77568.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--17-->
+    <instrumento idmodo="lenguetadob" idtipo="aerofo">
+		<nombreinstru>ContraFagot</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Contrabassoon2.jpg/61px-Contrabassoon2.jpg</imageninstru>
+		<historia>Posee un tubo de más 6m de longitud, que pesa unos 10 kg, y que doblado tres veces sobre sí mismo, aún alcanza una altura de 1,60 m. Está construido totalmente de madera, exceptuando el tudel y la campana.</historia>
+		<otroinstrumentosrel>Sarrusófono</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Leonardo</nameinter>
+				<surname>Guevara</surname>
+				<paiscountry>España</paiscountry>
+				<imageninterprete>http://sinfonica.com.co/userfiles/image/fotosorquesta/Musicos/A0009929.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Zulma</nameinter>
+				<surname>Bautista</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.oocities.org/elgringodelclarinete/OtroBios/ZulmaPromo.JPG</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--18-->
+     <instrumento idmodo="lenguetalibr" idtipo="aerofo">
+		<nombreinstru>Armónica</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/16-hole_chrom_10-hole_diatonic.jpg/200px-16-hole_chrom_10-hole_diatonic.jpg</imageninstru>
+		<historia>La armónica1 (del latín harmonĭcus, y este del griego ἁρμονικός), o rondín como se le conoce en el Perú, o dulzaina (en El Salvador), es un instrumento de viento, del grupo de instrumentos de viento-madera y del subgrupo de instrumentos de lengüetas libres.</historia>
+		<otroinstrumentosrel>Acordeon</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Lawrence</nameinter>
+				<surname>Cecil Adler</surname>
+				<paiscountry>España</paiscountry>	<imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Larry_Adler%2C_City_center%2C_NYC%2C_January_1947_%28Gottlieb_00031%29.jpg/220px-Larry_Adler%2C_City_center%2C_NYC%2C_January_1947_%28Gottlieb_00031%29.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Hugo</nameinter>
+				<surname>Díaz</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.harmonicaspain.com/historia/hugo_diaz/hugo_diaz_02.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--19-->
+     <instrumento idmodo="lenguetalibr" idtipo="aerofo">
+		<nombreinstru>Acordeon</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Acorde%C3%B3n_a_piano_partes.jpg/200px-Acorde%C3%B3n_a_piano_partes.jpg</imageninstru>
+		<historia>El acordeón es un instrumento musical armónico de viento, conformado por un fuelle, un diapasón y dos cajas armónicas de madera.</historia>
+		<otroinstrumentosrel>Bandoneón</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>IÑAKI</nameinter>
+				<surname>ALBERDI</surname>
+				<paiscountry>España</paiscountry>	<imageninterprete>http://recursos.march.es/culturales/documentos/participantes/761.jpg?v=22898496</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>ÁNGEL</nameinter>
+				<surname>LUIS CASTAÑO</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://recursos.march.es/culturales/documentos/participantes/2399.jpg?v=22898497</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--20-->
+     <instrumento idmodo="lenguetalibr" idtipo="mix">
+		<nombreinstru>Organo de Iglesia</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Weingarten_Basilika_Gabler-Orgel_2.jpg/200px-Weingarten_Basilika_Gabler-Orgel_2.jpg</imageninstru>
+		<historia>El órgano es un instrumento musical armónico de teclado. Los sonidos se generan haciendo pasar aire por tubos de diferentes longitudes (desde pocos centímetros hasta varios metros)</historia>
+		<otroinstrumentosrel>Piano con pedales</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Faustino</nameinter>
+				<surname>Arrilas</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>http://www.jaberni-coleccionismo-vitolas.com/images/Grandes_Tabaqueros/Faustino_Lozano.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Vicente</nameinter>
+				<surname>Estarelles Úbeda</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://xiloca.org/xilocapedia/images/thumb/b/b9/Autor00463.jpg/300px-Autor00463.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
 </instrumentos>
