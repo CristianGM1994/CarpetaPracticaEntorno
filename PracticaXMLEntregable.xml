@@ -75,3 +75,202 @@
             <Formaomodo idmodo="sopla">Soplados</Formaomodo>
         </tipo>
     </clasitipos>
+     
+      <!--1-->
+	<instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Tuba</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Two_F_tubas.jpg/220px-Two_F_tubas.jpg</imageninstru>
+		<historia>La tuba es el mayor de los instrumentos de viento-metal y sus antecesores son el serpentón y el oficleido. Es uno de los instrumentos más recientemente añadidos a la orquesta sinfónica moderna</historia>
+		<otroinstrumentosrel>Bombardino</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Gene</nameinter>
+				<surname>Pokorny</surname>
+				<paiscountry>America</paiscountry>
+				<imageninterprete>https://welltempered.files.wordpress.com/2013/07/gene-pokorny-tuba.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Walter </nameinter>
+				<surname>Hilgers </surname>
+				<paiscountry>Stolberg, Alemania</paiscountry>
+                <imageninterprete>http://3.bp.blogspot.com/-DiyWVGBdeNI/VlDUkbj-cRI/AAAAAAAAA20/emGljdxprOs/s1600/WALTER_HILGER_PLAYS_ON_MELTON_TUBAS.jpg </imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--2-->
+    <instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Trompa</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/French_horn_front.png/200px-French_horn_front.png</imageninstru>
+		<historia>La trompa o corno francés es un instrumento de viento-metal que tiene un carácter muy versátil y abarca una tesitura muy amplia con pocos pistones</historia>
+		<otroinstrumentosrel>Trompa Natural</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Miguel</nameinter>
+				<surname>Falomir Sabater</surname>
+				<paiscountry>España</paiscountry>
+				<imageninterprete>http://4.bp.blogspot.com/_LUJLp0pR7TA/TKcDCjrHtvI/AAAAAAAAAAg/rXJVgNKWE8w/s320/Falomir.JPG</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Salvador </nameinter>
+				<surname>Norte </surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://3.bp.blogspot.com/_LUJLp0pR7TA/TKcuUE6srEI/AAAAAAAAAAs/6xj_OOdub1Y/s1600/Salvador+norte.JPG</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--3-->
+    <instrumento idmodo="NewConstruccion" idtipo="electricos">
+		<nombreinstru>Sintetizador</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/3/3e/R.A.Moog_minimoog_2.jpg</imageninstru>
+		<historia>Un sintetizador es un instrumento musical electrónico que genera señales eléctricas convertidas a sonidos a través de altavoces o auriculares.</historia>
+		<otroinstrumentosrel>Organo</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Rick</nameinter>
+				<surname>Wakeman</surname>
+				<paiscountry>Reino Unido</paiscountry>
+				<imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rickwakemanmoog.jpg/250px-Rickwakemanmoog.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Skinny</nameinter>
+				<surname>Puppy</surname>
+				<paiscountry>Vancouver, Canada</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Skinny_Puppy_live_at_London_Astoria%2C_August_10_2005_4.jpg/250px-Skinny_Puppy_live_at_London_Astoria%2C_August_10_2005_4.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--4-->
+    <instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Trombon</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Posaune.gif/200px-Posaune.gif</imageninstru>
+		<historia>El trombón es un instrumento de viento metal. Su sonido se produce gracias a la vibración de los labios del intérprete en la parte denominada boquilla a partir de la columna del aire (flujo del aire)</historia>
+		<otroinstrumentosrel>Tuba</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Christian</nameinter>
+				<surname>Lindberg</surname>
+				<paiscountry>Suecia</paiscountry>
+				<imageninterprete>http://www.epdlp.com/fotos/lindberg.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Willie</nameinter>
+				<surname>Colon</surname>
+				<paiscountry>Nueva York</paiscountry>
+                <imageninterprete>http://www.fundacionjoseguillermocarrillo.com/sitio/fotos/willie.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--5-->
+    <instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Helicon</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Posaune.gif/200px-Posaune.gif</imageninstru>
+		<historia>El helicón es un instrumento de viento-metal. Es el predecesor del sousafón y ambos instrumentos tienen formas circulares y son típicamente portados sobre el hombro.</historia>
+		<otroinstrumentosrel>Trompa</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Guardia</nameinter>
+				<surname>Republicana</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>http://i2.esmas.com/2013/07/29/547567/1298248251757ebe5b274e738c0f08902ae68004-619x348.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Guardia</nameinter>
+				<surname>Republicana</surname>
+				<paiscountry>Nueva York</paiscountry>
+                <imageninterprete>http://i2.esmas.com/2013/07/29/547567/1298248251757ebe5b274e738c0f08902ae68004-619x348.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--6-->
+    <instrumento idmodo="NewConstruccion" idtipo="electricos">
+		<nombreinstru>Theremín</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Etherwave_Theremin_Kit.jpg/800px-Etherwave_Theremin_Kit.jpg</imageninstru>
+		<historia>El theremín es un instrumento musical inventado en 1919 por el ruso Lev Termen (1896-1993). Fue uno de los primeros instrumentos musicales electrónicos y, además de su sonido, lo más curioso es que el ejecutante no tiene ningún contacto físico con él.</historia>
+		<otroinstrumentosrel>Trompa alto</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Led</nameinter>
+				<surname>Zeppelin</surname>
+				<paiscountry>Londres, Reino Unido</paiscountry>
+				<imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Led_Zeppelin_logo.svg/250px-Led_Zeppelin_logo.svg.png</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Kasper</nameinter>
+				<surname>Eistrup</surname>
+				<paiscountry>Dinamarca</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kashmir_%28Band%29.jpg/250px-Kashmir_%28Band%29.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--7-->
+    <instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Corneta</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cornet2.png/200px-Cornet2.png</imageninstru>
+		<historia>El bombardino, eufonio o bajo es un instrumento perteneciente a la familia del viento metal, con tubería cónica y con voz en la extensión de barítono-tenor.</historia>
+		<otroinstrumentosrel>Fliscorno</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Herbert</nameinter>
+				<surname>Lincoln Clarke</surname>
+				<paiscountry>Estados Unidos</paiscountry>
+				<imageninterprete>http://files.la-corneta3.webnode.es/200000007-1bbab1cb34/HJGHJG.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Don</nameinter>
+				<surname>Cherry</surname>
+				<paiscountry>Estados Unidos</paiscountry>
+                <imageninterprete>http://files.la-corneta3.webnode.es/200000006-aa6a4ab62a/KJDSFHFJDKS.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--8-->
+    <instrumento idmodo="boquillaoemp" idtipo="aerofo">
+		<nombreinstru>Serpenton</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Szerpent.jpg/200px-Szerpent.jpg</imageninstru>
+		<historia>El serpentón es un instrumento de viento metal consistente en un tubo cónico alargado con una forma que recuerda a una serpiente, de donde proviene su nombre</historia>
+		<otroinstrumentosrel>Cornetto</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Michel</nameinter>
+				<surname>Godard</surname>
+				<paiscountry>Estados Unidos</paiscountry>
+				<imageninterprete>http://i1.wp.com/eduardruano.com/wp-content/uploads/2015/05/Michel-Godard-ACATUB_0114.jpg?resize=300%2C201</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Michel</nameinter>
+				<surname>Godard</surname>
+				<paiscountry>Estados Unidos</paiscountry>
+                <imageninterprete>http://i1.wp.com/eduardruano.com/wp-content/uploads/2015/05/Michel-Godard-ACATUB_0114.jpg?resize=300%2C201</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--9-->
+     <instrumento idmodo="bis" idtipo="aerofo">
+		<nombreinstru>Flauta travesera</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flute.jpg/200px-Flute.jpg</imageninstru>
+		<historia>La flauta travesera, traversa o transversal es un instrumento musical de viento-madera. El músico que toca la flauta es conocido como flautista</historia>
+		<otroinstrumentosrel>Flautaalto</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Marcel</nameinter>
+				<surname>Moyse</surname>
+				<paiscountry>Francia</paiscountry>
+				<imageninterprete>http://www.epdlp.com/fotos/moyse.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Jean</nameinter>
+				<surname>Pierre Rampal</surname>
+				<paiscountry>Francia</paiscountry>
+                <imageninterprete>http://www.epdlp.com/fotos/rampal.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+</instrumentos>
