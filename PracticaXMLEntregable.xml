@@ -843,4 +843,336 @@
 			</interprete>
 		</interpretes>
 	</instrumento>
+
+
+  <!--36-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Marimba</nombreinstru>
+		<imageninstru>https://marmimen97.files.wordpress.com/2012/10/504.jpg</imageninstru>
+		<historia>La marimba es un instrumento de percusión idiófono, de forma parecida al xilófono. Posee una serie de láminas de madera de distintos tamaños, dispuestas de mayor a menor, que se golpean con mazas para producir notas musicales</historia>
+		<otroinstrumentosrel>Hang</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Celso</nameinter>
+				<surname>Furtado</surname>
+				<paiscountry>Brasil</paiscountry>	
+                <imageninterprete>http://www.redcelsofurtado.edu.mx/imagenes/furtado.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Mariano</nameinter>
+				<surname>Valverde</surname>
+				<paiscountry>Quetzaltenango</paiscountry>
+                <imageninterprete>http://d3ustg7s7bf7i9.cloudfront.net/mmediafiles/pl/dc/dc121903-093d-4d20-87cc-f16451294027_879_586.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+     
+     <!--37-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Cencerro</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/4/46/Koebel.jpg</imageninstru>
+		<historia>El cencerro es un instrumento musical de percusión. Modernamente se fabrican pequeñas campanas o cencerros sin badajo específicos para ser usados como instrumentos musicales</historia>
+		<otroinstrumentosrel>Hang</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Marcos</nameinter>
+				<surname>Mundstock</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>https://i.ytimg.com/vi/svp86HNMaA4/maxresdefault.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Daniel</nameinter>
+				<surname>Rabinovich</surname>
+				<paiscountry>Argentina</paiscountry>
+                <imageninterprete>https://ztfnews.files.wordpress.com/2013/11/rabin1.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+    </instrumento>
+         
+         <!--38-->
+     <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Litófono</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/2/2a/Lit%C3%B2fon.jpg</imageninstru>
+		<historia>El litófono es un instrumento rudimentario construido a base de piedras, tal como dice la misma palabra (lito= piedra, fono= sonido).</historia>
+		<otroinstrumentosrel>Cabasa</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Pedro</nameinter>
+				<surname>Guerra</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>http://estaticos.elperiodico.com/resources/jpg/0/3/pedro-guerra-directo-1321039854530.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Rogelio</nameinter>
+				<surname>Botanz</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://i.ytimg.com/vi/wAleno-b_xA/maxresdefault.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+         
+    <!--39-->
+         <instrumento idmodo="idiofo" idtipo="golpeopercu">
+		<nombreinstru>Campanilla</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/5/50/Tribu.jpg</imageninstru>
+		<historia>Una campanilla es una campana pequeña que sirve para avisar, como decoración, para llamar la atención u otros propósitos.</historia>
+		<otroinstrumentosrel>Timbales</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>Puccio</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>http://fotos01.laprovincia.es/2015/03/06/646x260/lutherapia-espectaculo.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Gerardo</nameinter>
+				<surname>Masana</surname>
+				<paiscountry>Argentina</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/8/8a/Gerardo_Masana.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+    <!--40-->
+         <instrumento idmodo="idiofo" idtipo="sacu">
+		<nombreinstru>Cascabeles</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/b/b7/Sleigh_Bells.jpg</imageninstru>
+		<historia>Un cascabel es una pequeña esfera metálica ahuecada con una pequeña abertura, dentro de la cual hay otra más de menor tamaño llamada escrupulillo</historia>
+		<otroinstrumentosrel>Armonica</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Ricardo</nameinter>
+				<surname>Freire</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>https://i.ytimg.com/vi/wd5KVkK7PvE/maxresdefault.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Antonio</nameinter>
+				<surname>Amaya</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://www.elartedevivirelflamenco.com/imagenes/0001025.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+    <!--41-->
+         <instrumento idmodo="idiofo" idtipo="sacu">
+		<nombreinstru>Pandereta</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/8/84/Pandeiro3.JPG</imageninstru>
+		<historia>La pandereta es un instrumento de percusión con tono indeterminado membranófono perteneciente al grupo de los tambores de marco</historia>
+		<otroinstrumentosrel>Mirliton</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>López Puccio</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>http://fotos01.laprovincia.es/2015/03/06/646x260/lutherapia-espectaculo.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>Núñez Cortés</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg/220px-Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+      <!--42-->
+         <instrumento idmodo="idiofo" idtipo="raspas">
+		<nombreinstru>Matracas</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/e/e4/Rattle%2C_Ludlow_Museum_-_DSCF2033.JPG</imageninstru>
+		<historia>La matraca, carraca o carraco es un instrumento musical de percusión de la familia de los idiófonos, consta de un cuerpo o tablero de madera al que se le unen unos martilletes móviles, que pueden ser de madera o metal, que son los que se encargan de golpear el cuerpo de madera, según el tipo de matraca puede tener tres, dos, o un solo martillo, además también tiene un mango para sujetarla</historia>
+		<otroinstrumentosrel>Raspador</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Jorge</nameinter>
+				<surname>Maronna</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>http://www.videomaniaticos.com/img_personajes/Jorge_Maronna.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Carlos</nameinter>
+				<surname>Núñez Cortés</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg/220px-Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+    <!--43-->
+         <instrumento idmodo="idiofo" idtipo="sacu">
+		<nombreinstru>Maracas</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/d/de/Sambaballen.JPG</imageninstru>
+		<historia>Las maracas son un instrumento idiófono y de oscilación constituido por una parte esférica hueca sostenida por un mango que la atraviesa, o está adherida a ella</historia>
+		<otroinstrumentosrel>Silbato</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Gerardo</nameinter>
+				<surname>Masana</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/8/8a/Gerardo_Masana.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Ernesto</nameinter>
+				<surname>Acher</surname>
+				<paiscountry>Argentina</paiscountry>
+                <imageninterprete>https://img.discogs.com/E_QiMeqxPn3umQb8KaiLPLvisls=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1791407-1271834541.jpeg.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+    <!--44-->
+         <instrumento idmodo="idiofo" idtipo="frota">
+		<nombreinstru>Armonicas de Cristal</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/b/b5/Glassharmonica.png</imageninstru>
+		<historia>Es el resultado de una automatización para el tañido del juego de copas musicales llevada a cabo por Benjamin Franklin en 1762, después de ver en Cambridge (Inglaterra) un concierto de copas de vino llenas de agua tocadas por el inglés Edward Delaval</historia>
+		<otroinstrumentosrel>Timbales</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Maria</nameinter>
+				<surname>Antonieta de Austria</surname>
+				<paiscountry>Austria</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Marie_Antoinette_Adult4.jpg/275px-Marie_Antoinette_Adult4.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Franz</nameinter>
+				<surname>Anton Mesmer</surname>
+				<paiscountry>Alemania</paiscountry>
+                <imageninterprete>https://media1.britannica.com/eb-media/74/160374-004-47E5ED41.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--45-->
+         <instrumento idmodo="membra" idtipo="percutir">
+		<nombreinstru>Timbales</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/6/63/Parkside_Concert_Series_-_Timpani.jpg</imageninstru>
+		<historia>Un timbal o tímpano (en plural italiano: timpani) es un instrumento musical membranófono de sonoridad grave, que puede producir golpes secos o resonantes.</historia>
+		<otroinstrumentosrel>Tambores</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Johann </nameinter>
+				<surname>Sebatian Bach</surname>
+				<paiscountry>Alemania</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Georg</nameinter>
+				<surname>Friedrich Händel</surname>
+				<paiscountry>Alemania</paiscountry>
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/220px-George_Frideric_Handel_by_Balthasar_Denner.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento>
+    
+     <!--46-->
+         <instrumento idmodo="membra" idtipo="percutir">
+		<nombreinstru>Tambor</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/0/0e/Milit%C3%A4rtrumma%2C_Nordisk_familjebok.png</imageninstru>
+		<historia>Un tambor es un instrumento de percusión de sonido indeterminado perteneciente a la familia de los membranófonos. Consta de una caja de resonancia</historia>
+		<otroinstrumentosrel>Tambores</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Safri</nameinter>
+				<surname>Duo</surname>
+				<paiscountry>Dinamarca</paiscountry>	
+                <imageninterprete>http://thump-images.vice.com/images/2015/11/26/safri-duo-tocaba-en-festivales-de-trance-body-image-1448555948.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Nicanor</nameinter>
+				<surname>Zabaleta</surname>
+				<paiscountry>Alemania</paiscountry>
+                <imageninterprete>http://www.biografiasyvidas.com/biografia/z/fotos/zabaleta_nicanor.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento> 
+    
+    <!--47-->
+         <instrumento idmodo="membra" idtipo="percutir">
+		<nombreinstru>Pandero</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/3/38/Pandero_de_parche_de_piel.JPG</imageninstru>
+		<historia>El pandero es un instrumento de percusión perteneciente al grupo de los tambores de marco.</historia>
+		<otroinstrumentosrel>Tambores</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Primi</nameinter>
+				<surname>Erostarbe</surname>
+				<paiscountry>España</paiscountry>	
+                <imageninterprete>http://farm6.static.flickr.com/5212/5476067332_1e8f366a99.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Juana</nameinter>
+				<surname>Beristain</surname>
+				<paiscountry>España</paiscountry>
+                <imageninterprete>http://farm6.static.flickr.com/5212/5476067332_1e8f366a99.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento> 
+    
+    <!--48-->
+         <instrumento idmodo="membra" idtipo="percutir">
+		<nombreinstru>Bongos</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/d/d8/Bongo.jpg</imageninstru>
+		<historia>El bongó es un instrumento membranófono conformado por un juego de dos cuerpos de madera ligeramente troncocónicos, uno más pequeño que el otro, unidos por un listón de madera</historia>
+		<otroinstrumentosrel>Conga</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Armando</nameinter>
+				<surname>Peraza</surname>
+				<paiscountry>La Habana, Cuba</paiscountry>	
+                <imageninterprete>https://repeatingislands.files.wordpress.com/2014/04/armando-44d02520f8739511e0d60548f36918e1b03c9261-s6-c30.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Don</nameinter>
+				<surname>Alias</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>https://www.ecured.cu/images/thumb/4/48/DonAlias.jpg/260px-DonAlias.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento> 
+	
+	
+    <!--49-->
+         <instrumento idmodo="membra" idtipo="sopla2">
+		<nombreinstru>Kazoo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/0/08/Kazoo.jpg</imageninstru>
+		<historia>El pito de chapa o turuta es un instrumento musical de la familia de los membranófonos, constituido por una tapa en uno de cuyos sus extremos se fija un papel de fumar o un trozo de plástico</historia>
+		<otroinstrumentosrel>Matasuegra</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Rubén</nameinter>
+				<surname>Verna</surname>
+				<paiscountry>Argentina</paiscountry>	
+                <imageninterprete>https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ruben_Verna_-_Canciones_que_canta_el_viento_-_1975.jpg/200px-Ruben_Verna_-_Canciones_que_canta_el_viento_-_1975.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>Daniel</nameinter>
+				<surname>Rabinovich</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>https://ztfnews.files.wordpress.com/2013/11/rabin1.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento> 
+    
+    <!--50-->
+         <instrumento idmodo="electricos" idtipo="tradicion">
+		<nombreinstru>Kazoo</nombreinstru>
+		<imageninstru>https://upload.wikimedia.org/wikipedia/commons/a/a1/Electric_guitar_parts.jpg</imageninstru>
+		<historia>Una guitarra eléctrica es un instrumento musical armónico de seis cuerdas que utiliza el principio de inducción electromagnética para convertir las vibraciones de sus cuerdas de metal en señales eléctricas.</historia>
+		<otroinstrumentosrel>Saxo Midi</otroinstrumentosrel>
+		<interpretes>
+			<interprete>
+				<nameinter>Jimmy</nameinter>
+				<surname>Hendrix</surname>
+				<paiscountry>EEUU</paiscountry>	
+                <imageninterprete>http://2.bp.blogspot.com/-GPx07_izstI/TfLVDB97RMI/AAAAAAAAARU/YMCLCr4rgIo/s200/Jimmy+Hendrix.jpg</imageninterprete>
+			</interprete>
+			<interprete>
+				<nameinter>B.B</nameinter>
+				<surname>King</surname>
+				<paiscountry>EEUU</paiscountry>
+                <imageninterprete>http://www.emprendedoresnews.com/wp-content/uploads/2010/06/b.b.-kingI1.jpg</imageninterprete>
+			</interprete>
+		</interpretes>
+	</instrumento> 
 </instrumentos>
